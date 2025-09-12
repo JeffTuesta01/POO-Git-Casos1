@@ -1,4 +1,4 @@
-package practica3;
+package practica3_pregunta2;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

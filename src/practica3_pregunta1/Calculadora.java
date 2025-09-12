@@ -1,4 +1,4 @@
-package practica3;
+package practica3_pregunta1;
 
 /**
  * P1 - Sobrecarga de Métodos: Calculadora

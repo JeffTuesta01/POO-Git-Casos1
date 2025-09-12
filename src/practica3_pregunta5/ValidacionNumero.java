@@ -1,4 +1,4 @@
-package practica3;
+package practica3_pregunta5;
 
 import java.util.Scanner;
 
